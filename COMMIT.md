@@ -1,1 +1,0 @@
-# TYPE of COMMIT
